@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn
+
+prophet
+joblib
+pandas
+plotly
+yfinance
