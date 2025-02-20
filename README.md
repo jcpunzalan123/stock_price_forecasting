@@ -1,4 +1,4 @@
-**Stock Price Forecaster**
+**Stock Price Forecasting**
 ========================
 
 A Python-based web application that uses the Prophet library for time series forecasting and FastAPI for API
@@ -46,4 +46,3 @@ historical data.
 * Prophet
 * yfinance
 * pandas
-* numpy
