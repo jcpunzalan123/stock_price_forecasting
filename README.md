@@ -4,13 +4,6 @@
 A Python-based web application that uses the Prophet library for time series forecasting and FastAPI for API
 endpoints. The application collects historical stock prices using Yahoo Finance's yfinance library.
 
-**Table of Contents**
-
-1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-3. [Features](#features)
-4. [Requirements](#requirements)
-
 **Introduction**
 ---------------
 
